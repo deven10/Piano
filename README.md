@@ -1,5 +1,5 @@
 # Piano
-Touch as well as Keyboard Piano
+Touch as well as Keyboard Piano app.
 
 Use keyboards key from {S-H} & {Z-M} in 2nd and 3rd row corresponding.
 
